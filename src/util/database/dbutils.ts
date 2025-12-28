@@ -13,6 +13,8 @@ export async function findGuild(server_id: string): Promise<Guild> {
         dGuildID: server_id,
         allowUnverifiedQuestions: false,
         allowedFlagsBitmask: 0,
+        guildTimezoneIdentifier: "0",
+        guildObservesDaylightSavings: false,
         questionSentAtTimezone: "Europe/Berlin",
         questionSentAtLocalHour: 0,
       });
