@@ -56,7 +56,7 @@ npm run deploy    # deploy commands to the bot
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-See [`LICENSE`](./LICENSE) for the full text of the license. For a summary of the AGPL-3.0, visit [choosealicense.com](https://choosealicense.com/licenses/agpl-3.0/). A list of all third-party packages used in this project and their respective licenses can be found in [`NOTICE.md`](./NOTICE.md).
+See [`LICENSE`](./LICENSE) for the full text of the license. For a summary of the AGPL-3.0, visit [choosealicense.com](https://choosealicense.com/licenses/agpl-3.0/).
 
 ## 💭 Contact
 

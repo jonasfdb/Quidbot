@@ -4,8 +4,6 @@ import path from "path";
 import { pathToFileURL, fileURLToPath } from "url";
 import dotenv from "dotenv";
 import { initDatabase } from "./src/util/database/dbinit";
-import { sendQotdToGuild } from "./src/qman/qmanSender";
-import { findGuild } from "./src/util/database/dbutils";
 dotenv.config({ path: './.env' });
 
 const __filename = fileURLToPath(import.meta.url);
